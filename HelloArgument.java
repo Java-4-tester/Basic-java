@@ -13,6 +13,11 @@ public class HelloArgument {
                                  * (String[] args) is the parameter list for the main method
                                   */
     System.out.println("Hello " + args[0]);
+
+                                /*System.out is an object that represents the standard output stream, used to print data to the console.
+                                println: This is a method of the System.out object, used to print a string.
+                                "Hello " + args[0]) is the argument, the args array contains command-line arguments passed to the program.
+                                  */
     }
                             
 
