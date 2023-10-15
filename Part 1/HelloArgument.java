@@ -12,7 +12,7 @@ public class HelloArgument {
                                  * main is the name of the method. In Java, the main method is the starting point of a program.
                                  * (String[] args) is the parameter list for the main method
                                   */
-    System.out.println("Hello " + args[0] + args[2]);
+    System.out.println(args[0] +" Chutiya " + " and " + args[1] + " is Hero");
 
                                 /*System.out is an object that represents the standard output stream, used to print data to the console.
                                 println: This is a method of the System.out object, used to print a string.
